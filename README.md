@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rubenhdz20
+- 👋 Hi, I’m Ruben Hernandez 
 - 👀 I’m interested in web development 
 - 💡 I’m currently learning Javascript with its framework React
 - 🗺 I’m looking to collaborate on projects that can create a positive impact on society 
