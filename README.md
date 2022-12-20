@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 💡 I’m currently learning Javascript with its framework React
 - 🗺 I’m looking to collaborate on projects that can create a positive impact on society 
-- 🔦 How to reach me: Twitter: @rubenhernande90 - LinkedIn: Ruben Hernandez Alvarado
+- 🔦 How to reach me: Twitter: @rubenhernande90 - LinkedIn: https://www.linkedin.com/in/ruben-hernandez-alvarado-58aa62172/ 
 
 <!---
 Rubenhdz20/Rubenhdz20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
