@@ -1,13 +1,6 @@
 
 
 
-<a href="https://twitter.com/rubenhernande90">
-  <img align="center" alt="Ruben | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ruben-hernandez-alvarado/">
-  <img align="center" alt="Ruben LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 
 ### Frontend  
 <div align="center">  
@@ -24,3 +17,14 @@
 </div>
 
 </td><td valign="top" width="33%">
+  
+  ## Connect with me  
+<div align="center">
+<a href=""https://www.linkedin.com/in/ruben-hernandez-alvarado/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/rubenhernande90" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
