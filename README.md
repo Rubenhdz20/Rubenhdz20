@@ -1,10 +1,6 @@
 # <div align="center"> 👋🏻 Hi there I'm Ruben!, Frontend Developer who loves to create and build for the Web! 🚀</div>  
-
-<div align="center">
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47gji3eua98rx2j8z8ho4b84t720fen0i6i7plwbvg&rid=200.webp&ct=g" align="center" height="" width="600" />
-</div>  
-  
-## 🎯 These are some technologies I use
+   
+## 🎯 These are the Technologies I use
 
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
