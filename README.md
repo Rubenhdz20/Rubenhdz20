@@ -16,7 +16,7 @@
 
 </td><td valign="top" width="33%">
   
-  ## 🌎 Find me around the world
+  ## 🌎 Find me here
   
 <div align="center">
 <a href="https://www.linkedin.com/in/ruben-hernandez-alvarado/" target="_blank">
