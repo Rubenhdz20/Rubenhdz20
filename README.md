@@ -1,4 +1,4 @@
-# <div align="center"> 👋🏻 Hi there I'm Ruben!, Frontend Developer who loves to create and build for the Web! 🚀</div>  
+# <div align="center"> Software Developer who loves to create and build for the Web! 🚀</div>  
    
 ## 🎯 These are the Technologies I use
 
