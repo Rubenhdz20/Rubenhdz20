@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white">
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro&logoColor=white">
   <img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white">
