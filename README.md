@@ -1,4 +1,5 @@
-# <div align="center"> Hello World! My name is Ruben, Frontend Developer who loves to create and build for the Web! 🚀</div>  
+# <div align="center"> Hello World! My name is Ruben</div>  
+# <div align="center"> Frontend Developer who loves to create and build for the Web! 🚀</div>  
    
 ## Technologies I like to play with 
 
